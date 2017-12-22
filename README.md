@@ -1,7 +1,3 @@
-# ARK-Server-Configs
-
-
-
 <h1> ARK SERVER CONFIGURATION </h1>
   <h2> Steps to follow: </h2>
     <h3> 1. Edit the config </h3>
